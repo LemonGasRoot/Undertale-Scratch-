@@ -13,7 +13,7 @@ How to use it:\
     5. Characters can walk through edges\
 **Step 3**\
   Change some settings or put some code brickes\
-**Setp 4**\
+**Step 4**\
   ENJOY THE BATTLE!!!!! YOU DID IT!!!!!
 
 
